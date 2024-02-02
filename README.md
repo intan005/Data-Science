@@ -1,6 +1,6 @@
 Data Science for Smart Environments
 
-The individual portofolio notebook was contains three sections: introduction, readme and reflection
+The individual portofolio notebook contains three sections: introduction, readme and reflection
 Readme section was divided into three sections presenting each type of goals : 
 - data (wrangling)
 - Information (combining, analysis, data quality, visualization)
